@@ -12,7 +12,8 @@ To install the necessary dependencies, run the following command:
 npm install
 
 ### Example
-Demo video: watch the video
+Demo: watch the video
+
 
 ```markdown
 # README Generator
